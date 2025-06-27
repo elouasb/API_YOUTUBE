@@ -1,5 +1,4 @@
-google-api-python-client
-httplib2
-pandas
+google-api-python-client==2.15.0
+httplib2==0.22.0
+pandas==2.2.2
 streamlit
-st.secrets
