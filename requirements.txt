@@ -1,4 +1,3 @@
-google-api-python-client>=2.100.0
-httplib2>=0.22.0
-pandas>=2.0.0
-st.secrets
+google-api-python-client
+httplib2
+pandas
